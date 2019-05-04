@@ -7,5 +7,5 @@ public class DataBaseRepositry {
     {
         return "This is DataBase";
     }
-    
+
 }
